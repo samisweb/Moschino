@@ -145,8 +145,8 @@ a img {
 body {
 	letter-spacing:1px;
 }
-body,button,input,select,textarea {
-	color:#666666;
+body, button, input, select, textarea {
+	color:#000;
 	font-family:inherit;
 	font-size:14px;
 	line-height:1.8;
@@ -2239,12 +2239,8 @@ h6 { font-size: 12px; }
 	text-align: left;
 	text-transform: uppercase;
 }
-body,
-button,
-input,
-select,
-textarea {
-	color: #888888;
+body, button, input, select, textarea{
+	color: #000;
 }
 h1, h2, h3, h4, h5, h6 {
 	color: #222222;
